@@ -1,0 +1,7 @@
+.btndisable {
+  pointer-events: none;
+  opacity: 0.5;
+}
+.form_search_name {
+  display: flex;
+}

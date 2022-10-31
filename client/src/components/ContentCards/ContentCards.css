@@ -1,0 +1,27 @@
+.content_countries {
+  display: flex;
+  /* width: 800px; */
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 30px 30px;
+  margin-top: 35px;
+  padding: 0 100px;
+}
+
+.content_selects {
+  display: flex;
+
+  flex-wrap: wrap;
+  margin: 20px 20px;
+  justify-content: space-evenly;
+}
+
+.content_numbers {
+  display: flex;
+}
+
+.content_form {
+  display: flex;
+}

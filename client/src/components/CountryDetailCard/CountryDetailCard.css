@@ -1,0 +1,11 @@
+.content_card_detail {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+  align-items: center;
+}
+
+.card_detail_image {
+  width: 200px;
+}

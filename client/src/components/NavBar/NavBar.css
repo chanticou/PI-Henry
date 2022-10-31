@@ -1,0 +1,21 @@
+.content_navBar {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.link_create_activities {
+  display: flex;
+  text-decoration: none;
+  cursor: pointer;
+  color: black;
+  font-size: 15px;
+}
+
+.link_create_activities:hover {
+  color: red;
+  transition: 2s;
+  font-size: 18px;
+}
